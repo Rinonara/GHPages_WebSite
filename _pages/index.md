@@ -14,7 +14,8 @@ permalink: /
 以下テンプレート
 
 ## イルカ
-- 大迫力のイルカショーでみんなの心を鷲掴み！
+- 大迫力のイルカショーでみんなの心を鷲掴み！  
+![image](../assets/images/iruka.jpeg)
 - 可愛さと力強さのダブルパンチ！  
 ![image](https://marineworld.hiyoriyama.co.jp/images/2021/10/acc01-02-480x360.jpg)
 ## アザラシ
