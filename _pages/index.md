@@ -15,14 +15,12 @@ permalink: /
 
 ## イルカ
 - 大迫力のイルカショーでみんなの心を鷲掴み！  
-![image](../assets/images/iruka.jpeg)
 - 可愛さと力強さのダブルパンチ！  
-![image](https://marineworld.hiyoriyama.co.jp/images/2021/10/acc01-02-480x360.jpg)
+![image](https://marineworld.hiyoriyama.co.jp/images/2021/10/acc01-02-480x360.jpg) 
 ## アザラシ
 - 可愛いフォルムで大人気！
 - 何気ない動作がみんなを癒す！  
 ![image](https://media-assets.aumo.jp/uploads/photo/upload_photo/data/701893/large_webp_addbc4aa-a83a-4bbd-a2f5-628c6ad31d6d.webp)
-
 ## サメ 
 - 水族館でかっこいい生き物No.1!
 - 大小それぞれ見応え抜群！
